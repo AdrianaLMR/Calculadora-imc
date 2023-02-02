@@ -8,48 +8,51 @@ div{
     border-radius: 30px;
     border: solid 4px black;
     background: linear-gradient(rgb(188, 225, 212), rgb(50, 153, 119));
-    width: 700px;
+    width: 400px;
     height: 500px;
     margin-top: 65px;
-    margin-left: 290px;
+    margin-left: 400px;
 }
 .title{
-    font-size: 30px;
+    font-size: 20px;
     align-items: center;
-    padding-left: 180px;
+    padding-left: 80px;
 }
 .input{
-    font-size: 30px;
+    font-size: 25px;
     align-items:center;
     justify-content: center;
 }
 #calcular{
-    width: 300px;
+    width: 120px;
     background-color: rgb(2, 31, 28);
     border-radius: 2px;
-    border: solid 4px black;
-    font-size: 30px;
+    border: solid 3px black;
+    font-size: 20px;
     align-items: center;
     padding: 4px;
-    margin-left: 190px;
+    margin-left: 130px;
     color: white;
-    margin-top: 15px;
+    margin-top: 5px;
 }
 .result{
-    border-radius: 30px;
-    border: solid 4px black;
-    font-size: 20px;
+    margin-top: 20px;
+    border-radius: 20px;
+    border: solid 2px black;
+    font-size: 19px;
     align-items: center;
     padding: 20px;
     background: aquamarine;
+    min-width: 200px;
+    min-height: 100px;
 }
 input{
     background: transparent;
-    width: 400px;
+    width: 200px;
 }
 .peso{
-    padding-left: 20px;
-    font-size: 30px;
+    padding-left: 19px;
+    font-size: 25px;
     align-items:center;
     justify-content: center;
 }
