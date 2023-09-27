@@ -6,6 +6,6 @@
 ![IMC](https://github.com/AdrianaLMR/Calculadora-imc/assets/98758967/2d99edea-1ace-4676-9c8d-0b04fe0e099a)
 
 ---------
-Tabela de peso:
+Imagem do projeto:
 
-![blog_IMC](https://github.com/AdrianaLMR/Calculadora-imc/assets/98758967/10a2ec0a-f597-4390-a204-4f221e85840d)
+![imgCalculadoraIMC](https://github.com/AdrianaLMR/Calculadora-imc/assets/98758967/e75c081f-b042-4dce-bb57-6a21aa7dd594)
